@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="daa26e95-7c37-45f2-99d6-2231d3ef725c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X0bv3ta4IF00pn7WNZaVmMpusG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.Main">
+    <configuration name="CheckInstaPics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="InstaScraper" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CheckInstaPics.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CompareImages" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="InstaScraper" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CompareImages.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="InstaScraper" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="InstaScraper" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="instagrampractice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="InstaScraper" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/instagrampractice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Main" />
+        <item itemvalue="Python.Test" />
+        <item itemvalue="Python.instagrampractice" />
+        <item itemvalue="Python.CheckInstaPics" />
+        <item itemvalue="Python.CompareImages" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="daa26e95-7c37-45f2-99d6-2231d3ef725c" name="Default Changelist" comment="" />
+      <created>1580186185399</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580186185399</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="104" y="46" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580356002740">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state x="104" y="46" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.723@0.23.1280.723" timestamp="1580356002740" />
+    <state x="458" y="181" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580591091758">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="458" y="181" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.811@0.23.1440.811" timestamp="1580591091758" />
+    <state width="1419" height="208" key="GridCell.Tab.0.bottom" timestamp="1581479841063">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1239" height="199" key="GridCell.Tab.0.bottom/0.23.1280.723@0.23.1280.723" timestamp="1580433924445" />
+    <state width="1239" height="199" key="GridCell.Tab.0.bottom/0.23.1280.724@0.23.1280.724" timestamp="1580428799085" />
+    <state width="1239" height="200" key="GridCell.Tab.0.bottom/0.23.1280.726@0.23.1280.726" timestamp="1580359001786" />
+    <state width="1239" height="200" key="GridCell.Tab.0.bottom/0.23.1280.727@0.23.1280.727" timestamp="1580345809827" />
+    <state width="1239" height="200" key="GridCell.Tab.0.bottom/0.23.1280.728@0.23.1280.728" timestamp="1580345902009" />
+    <state width="1419" height="207" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1580755489699" />
+    <state width="1419" height="207" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1580842515980" />
+    <state width="1419" height="208" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1581479841063" />
+    <state width="1419" height="207" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1580614218847" />
+    <state width="1419" height="208" key="GridCell.Tab.0.center" timestamp="1581479841062">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1239" height="199" key="GridCell.Tab.0.center/0.23.1280.723@0.23.1280.723" timestamp="1580433924444" />
+    <state width="1239" height="199" key="GridCell.Tab.0.center/0.23.1280.724@0.23.1280.724" timestamp="1580428799084" />
+    <state width="1239" height="200" key="GridCell.Tab.0.center/0.23.1280.726@0.23.1280.726" timestamp="1580359001785" />
+    <state width="1239" height="200" key="GridCell.Tab.0.center/0.23.1280.727@0.23.1280.727" timestamp="1580345809826" />
+    <state width="1239" height="200" key="GridCell.Tab.0.center/0.23.1280.728@0.23.1280.728" timestamp="1580345902008" />
+    <state width="1419" height="207" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1580755489699" />
+    <state width="1419" height="207" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1580842515979" />
+    <state width="1419" height="208" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1581479841062" />
+    <state width="1419" height="207" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1580614218846" />
+    <state width="1419" height="208" key="GridCell.Tab.0.left" timestamp="1581479841062">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1239" height="199" key="GridCell.Tab.0.left/0.23.1280.723@0.23.1280.723" timestamp="1580433924444" />
+    <state width="1239" height="199" key="GridCell.Tab.0.left/0.23.1280.724@0.23.1280.724" timestamp="1580428799082" />
+    <state width="1239" height="200" key="GridCell.Tab.0.left/0.23.1280.726@0.23.1280.726" timestamp="1580359001784" />
+    <state width="1239" height="200" key="GridCell.Tab.0.left/0.23.1280.727@0.23.1280.727" timestamp="1580345809826" />
+    <state width="1239" height="200" key="GridCell.Tab.0.left/0.23.1280.728@0.23.1280.728" timestamp="1580345902008" />
+    <state width="1419" height="207" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1580755489698" />
+    <state width="1419" height="207" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1580842515979" />
+    <state width="1419" height="208" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1581479841062" />
+    <state width="1419" height="207" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1580614218846" />
+    <state width="1419" height="208" key="GridCell.Tab.0.right" timestamp="1581479841063">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1239" height="199" key="GridCell.Tab.0.right/0.23.1280.723@0.23.1280.723" timestamp="1580433924445" />
+    <state width="1239" height="199" key="GridCell.Tab.0.right/0.23.1280.724@0.23.1280.724" timestamp="1580428799085" />
+    <state width="1239" height="200" key="GridCell.Tab.0.right/0.23.1280.726@0.23.1280.726" timestamp="1580359001785" />
+    <state width="1239" height="200" key="GridCell.Tab.0.right/0.23.1280.727@0.23.1280.727" timestamp="1580345809827" />
+    <state width="1239" height="200" key="GridCell.Tab.0.right/0.23.1280.728@0.23.1280.728" timestamp="1580345902008" />
+    <state width="1419" height="207" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1580755489699" />
+    <state width="1419" height="207" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1580842515979" />
+    <state width="1419" height="208" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1581479841063" />
+    <state width="1419" height="207" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1580614218847" />
+    <state x="168" y="23" key="SettingsEditor" timestamp="1580535766210">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="149" y="23" key="SettingsEditor/0.23.1280.723@0.23.1280.723" timestamp="1580426513964" />
+    <state x="149" y="23" key="SettingsEditor/0.23.1280.724@0.23.1280.724" timestamp="1580429522810" />
+    <state x="168" y="23" key="SettingsEditor/0.23.1440.811@0.23.1440.811" timestamp="1580535766210" />
+    <state x="319" y="217" key="com.intellij.ide.util.TipDialog" timestamp="1580416468435">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state x="319" y="217" key="com.intellij.ide.util.TipDialog/0.23.1280.723@0.23.1280.723" timestamp="1580416468435" />
+    <state x="319" y="217" key="com.intellij.ide.util.TipDialog/0.23.1280.724@0.23.1280.724" timestamp="1580328895752" />
+  </component>
+</project>
