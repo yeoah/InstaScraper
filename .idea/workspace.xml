@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="daa26e95-7c37-45f2-99d6-2231d3ef725c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CheckInstaPics.py" beforeDir="false" afterPath="$PROJECT_DIR$/CheckInstaPics.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +18,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1X0bv3ta4IF00pn7WNZaVmMpusG" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -160,7 +160,19 @@
       <option name="presentableId" value="Default" />
       <updated>1580186185399</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added comments to each function">
+      <created>1581716945658</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581716945658</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added comments to each function" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added comments to each function" />
   </component>
   <component name="WindowStateProjectService">
     <state x="104" y="46" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580356002740">
@@ -171,6 +183,10 @@
       <screen x="0" y="23" width="1440" height="811" />
     </state>
     <state x="458" y="181" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.811@0.23.1440.811" timestamp="1580591091758" />
+    <state x="344" y="29" key="CommitChangelistDialog2" timestamp="1581716945491">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="344" y="29" key="CommitChangelistDialog2/0.23.1440.814@0.23.1440.814" timestamp="1581716945491" />
     <state width="1419" height="208" key="GridCell.Tab.0.bottom" timestamp="1581479841063">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
@@ -230,6 +246,10 @@
     </state>
     <state x="319" y="217" key="com.intellij.ide.util.TipDialog/0.23.1280.723@0.23.1280.723" timestamp="1580416468435" />
     <state x="319" y="217" key="com.intellij.ide.util.TipDialog/0.23.1280.724@0.23.1280.724" timestamp="1580328895752" />
+    <state x="503" y="351" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581716956270">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="503" y="351" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.814@0.23.1440.814" timestamp="1581716956270" />
     <state x="482" y="65" key="refactoring.ChangeSignatureDialog" timestamp="1581716722613">
       <screen x="0" y="23" width="1440" height="814" />
     </state>
