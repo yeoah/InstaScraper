@@ -7,6 +7,7 @@ import os
 from selenium.webdriver.chrome.options import Options
 
 
+# Gets the URLs of the last three posts of the given instagram account
 def get_insta_urls(centerinstaurl):
     posts = ['/html/body/div[1]/section/main/div/div[@class=" _2z6nI"]/article/div/div/div/div[1]/a','/html/body/div[1]/section/main/div/div[@class=" _2z6nI"]/article/div/div/div/div[2]/a','/html/body/div[1]/section/main/div/div[@class=" _2z6nI"]/article/div/div/div/div[3]/a']
     instaUrls = list()
@@ -26,6 +27,7 @@ def get_insta_urls(centerinstaurl):
     return instaUrls
 
 
+# For a given instagram post URL, downloads the image to the root folder
 def download_insta_image(url,imgName):
     options = Options()
     options.add_argument('--headless')
@@ -44,6 +46,7 @@ def download_insta_image(url,imgName):
         print(e)
 
 
+# Compares two images using mean-square error and returns true or false
 def mse(imageA, imageB):
     imageA = cv2.imread(imageA)
     imageB = cv2.imread(imageB)
@@ -60,6 +63,7 @@ def mse(imageA, imageB):
         return False
 
 
+# Combines the above three functions to determine if an instagram URL has the given picture
 def check_insta_pics(instaUrl,ogImagePath):
     instaUrls = get_insta_urls(instaUrl)
 
